@@ -1,0 +1,9 @@
+name: DuplicationPatch
+version: 0.1
+description: A patch for Spigot 1.12 that fixes the duplication exploit
+author: emanh
+website: http://emanhmc.ezyro.com
+main: com.ezyro.emanhmc.duppatch.Main
+depend: [ProtocolLib]
+softdepend: [ProtocolLib]
+loadbefore: [ProtocolLib]
